@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm  Jossue 👋<br><br>Welcome to my GitHub profile! I’m a passionate Accountant with a love for Accounting, AR Roles, Credit Risk and customer contact . Here’s a little bit about me:<br>🚀 About Me<br><br>    🌱 I’m currently learning Software Developer.<br>    💼 I work as an Accountant  at BlackHawk Network Emea.<br>    📚 I’m interested in Accounting NIF , JAVA, algorithm design, system architecture .<br>    🎯 My goals for this year is contribute to reduce teh past due balance in my organization from 4M to 1M GBP .<br>   
+Hi there, I'm  Jossue 👋<br><br>Welcome to my GitHub profile! I’m a passionate Accountant with a love for Accounting, AR Roles, Credit Risk and customer contact . Here’s a little bit about me:<br>🚀 About Me<br><br>    🌱 I’m currently learning Software Developer.<br>    💼 I work as an Accountant  at BlackHawk Network Emea.<br>    📚 I’m interested in Accounting NIF , JAVA, algorithm design, system architecture .<br>    🎯 My goals for this year is contribute to reduce the past due balance in my organization from 4M to 1M GBP .<br>   
 
 
 ## 🌐 Socials:
